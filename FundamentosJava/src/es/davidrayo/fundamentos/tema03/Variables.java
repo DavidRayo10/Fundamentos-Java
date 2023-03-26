@@ -19,6 +19,5 @@ public class Variables {
 
 		// variable booleana
 		boolean isMayor = true;
-
 	}
 }
